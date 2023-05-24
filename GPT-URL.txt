@@ -3,6 +3,7 @@ SK　MS
 SK 例
 　https://acro-engineer.hatenablog.com/entry/2023/04/18/120000
 SK Zen
+ https://zenn.dev/topics/semantickernel
  https://zenn.dev/hiromu/articles/20230430_semantikkernel
 
 Download Data via HTTP get
