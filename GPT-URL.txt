@@ -1,0 +1,12 @@
+SK　MS
+ https://zenn.dev/microsoft/articles/semantic-kernel-2
+SK 例
+　https://acro-engineer.hatenablog.com/entry/2023/04/18/120000
+SK Zen
+ https://zenn.dev/hiromu/articles/20230430_semantikkernel
+
+Download Data via HTTP get
+ https://github.com/lucita77/DL/raw/master/sk-skills.zip
+
+Fine-Tuning Prompt Design
+ https://qiita.com/tmgauss/items/22c4e5e00282a23e569d
