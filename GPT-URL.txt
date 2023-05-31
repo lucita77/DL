@@ -11,3 +11,9 @@ Download Data via HTTP get
 
 Fine-Tuning Prompt Design
  https://qiita.com/tmgauss/items/22c4e5e00282a23e569d
+ 
+ 日本語sample
+  https://qiita.com/sakue_103/items/09e71c932fa9a95e7c33
+
+LangChain
+https://python.langchain.com/en/latest/index.html
